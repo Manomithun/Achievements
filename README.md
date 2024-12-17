@@ -64,7 +64,7 @@ As a second-year CSE student, I am passionate about:
 ## 📬 **Connect with Me**
 
 - **GitHub:** https://github.com/Manomithun 
-- **LinkedIn:** linkedin.com/in/mano-m-3981712a3  
+- **LinkedIn:** https://in.linkedin.com/in/mano-m-3981712a3  
 - **Email:** manomarutharasu@gmail.com 
 
 Thank you for visiting my repository! 😊
