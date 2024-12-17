@@ -1,2 +1,2 @@
 I’m happy to share that I’ve obtained a new certification in Data Structures and Algorithms using Java from NPTEL. I secured a 71% score after completing the 12-week course.
-This program helped me deepen my understanding of core concepts like data structures, algorithm design, and Java programming. Grateful for the opportunity to enhance my skills and excited to apply these learnings to real-world challenges and future projects!# Achievements
+This program helped me deepen my understanding of core concepts like data structures, algorithm design, and Java programming. Grateful for the opportunity to enhance my skills and excited to apply these learnings to real-world challenges and future projects!
